@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "mongoose": "^6.7.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.33.0"
+  },
+  "scripts": {
+    "start": "node ap.js"
+  },
+  "name": "site_praec",
+  "version": "2.0.0",
+  "main": "ap.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caio-lima-santos/site_praec.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caio-lima-santos/site_praec/issues"
+  },
+  "homepage": "https://github.com/Caio-lima-santos/site_praec#readme",
+  "description": ""
+}
