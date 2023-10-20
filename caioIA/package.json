@@ -1,0 +1,16 @@
+{
+  "name": "caioai",
+  "version": "1.0.0",
+  "description": "Manipulação do gpt.Feito por caio lima dos santos",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caio lima dos santos",
+  "license": "MIT",
+  "dependencies": {
+    "openai": "^4.12.1"
+  },
+  "devDependencies": {}
+}
